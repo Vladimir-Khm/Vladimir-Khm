@@ -1,16 +1,13 @@
-### Hi there 👋
+```go
+var Vladimir = Person{
+  name: "Vladimir Khmel",
+  age: 19,
+  languages: lang{"en", "be", "ru"},
+  skills: skill{"go", "cpp", "python"}
+}
 
-<!--
-**Vladimir-Khm/Vladimir-Khm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vladimir.hi()
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Prints out: Hi there 😊
+```
