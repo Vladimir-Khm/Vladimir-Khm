@@ -10,7 +10,7 @@ Hi, I'm a founder of several TON projects, blockchain & backend developer. My wo
 - **Core Concepts**:  Consensus algorithms, Cryptography, DeFi (algorithms, operations, instruments, finances)
 - **TON Blockchain**:
   - Technical features and advantages
-  - Smart contract languages: **Tact**, **Tolk**
+  - Smart contract languages: **Tact**, **Tolk**, **FunC**
   - Tools: **Blueprint**, **Jest testing**, **Misty**
   - Building secure, optimized and scalable smart-contracts systems
   - **TON Connect** & **TON Proof**
@@ -30,14 +30,16 @@ Hi, I'm a founder of several TON projects, blockchain & backend developer. My wo
 
 ### **Highlights**:
 - **Team management**: Planning, solving business issues, and leading team
+- **Blockchain Development**: Prepared and reviewed **Tact** problems for contests and developed smart-contracts systems
 - **Backend development**: Building scalable APIs and databases
 - **Plagiarism-detecting system**: Designed and developed a solution based on AST and tokenization for **Tact**
 - **Blockchain-Backend architecture**: Developed systems that require blockchain and backend interaction
 - **Product Conceptualization**: Creating product concept by defining their vision, functionality, and mechanics
 - **Strategic Communication**: Delivered presentations, pitches, and conducted negotiations
 
+
 ### **Notable Projects**:
-- [**TON Contests**](https://ton-contests.vercel.app/): Highload contest systems for TON smart contracts
+- [**TON Contests**](https://toncontests.com/): Highload contest systems for TON smart contracts
 - [**TON Narrative**](https://t.me/TonNarrativeBot/app): Instrument to effectively manage a developer community
 - **GreenTON** (paused): Platform to plant real trees and receive SBT-certificates
 
